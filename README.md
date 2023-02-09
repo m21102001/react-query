@@ -1,2 +1,6 @@
-# react-query
-Created with CodeSandbox
+# Example
+
+To run this example:
+
+- `npm install`
+- `npm run dev`
